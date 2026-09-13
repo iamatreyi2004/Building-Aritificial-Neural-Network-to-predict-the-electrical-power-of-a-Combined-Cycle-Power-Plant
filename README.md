@@ -23,7 +23,7 @@
 
 ## 3. Performance Evaluation
 
-The models were evaluated using **R², RMSE, and MAE**.
+The models were evaluated using **R².
 
 ### R² — Coefficient of Determination
 
@@ -33,7 +33,7 @@ The obtained R² values were approximately:
 
 | Model                      |                           R² |
 | -------------------------- | ---------------------------: |
-| Multiple Linear Regression |                    **94.5%** |
+| Multiple Linear Regression |                    **94.54%** |
 | Polynomial Regression      |                    **94.58%**|
 | Regression Tree            |                   **93.51%** |
 | XGBoost Regression         |                    **94.6%** |
