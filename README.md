@@ -23,7 +23,7 @@
 
 ## 3. Performance Evaluation
 
-The models were evaluated using **R².
+The models were evaluated using R².
 
 ### R² — Coefficient of Determination
 
